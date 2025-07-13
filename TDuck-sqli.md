@@ -34,7 +34,7 @@ An u attacker can exploit the `formKey` parameter in the `/user/form/data/downlo
 
 ```
 POST /user/form/data/download/file HTTP/1.1
-Host: 192.168.147.145:8999
+Host: xxx
 Content-Type: application/json
 token: <valid_token>
 Content-Length: 73
